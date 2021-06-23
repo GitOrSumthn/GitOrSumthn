@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me: dont
-_    alias your commands for added efficiency
 
 <!---
 GitOrSumthn/GitOrSumthn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
